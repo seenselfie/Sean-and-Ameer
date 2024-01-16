@@ -5,10 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/levels/Menu.unity
+    guid: b93bcdc50ee72e247a8493bbaa79c30d
   - enabled: 0
     path: Assets/levels/tester scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/levels/level 1.unity
     guid: 2a733c293128c57469b982077b6d4afc
+  - enabled: 1
+    path: Assets/levels/level 2.unity
+    guid: 491cb356bb370e444b53ca0888f6b980
+  - enabled: 1
+    path: Assets/levels/level 3.unity
+    guid: 37bba6e7c8c257046838d77f478c87bf
+  - enabled: 1
+    path: Assets/levels/level 4.unity
+    guid: 78d957f0654120a45bf70e1b9ebd009f
+  - enabled: 1
+    path: Assets/levels/level 5.unity
+    guid: 36d1bae305770144781fe873959690c9
+  - enabled: 1
+    path: Assets/levels/level 6.unity
+    guid: b661cbafabec84c4d9a06a44a221c233
   m_configObjects: {}

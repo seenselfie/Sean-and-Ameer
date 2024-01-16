@@ -6,14 +6,14 @@ using UnityEngine.SceneManagement;
 public class killPlayer : MonoBehaviour
 {
 
-    public int Respawn;
+    
     // Start is called before the first frame update
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(Respawn);
+            SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }
