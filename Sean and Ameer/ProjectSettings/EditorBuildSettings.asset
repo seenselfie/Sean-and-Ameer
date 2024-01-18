@@ -29,4 +29,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/levels/level 6.unity
     guid: b661cbafabec84c4d9a06a44a221c233
+  - enabled: 0
+    path: Assets/levels/level 7.unity
+    guid: 02b4e3d35028c664097eebb213004fcb
+  - enabled: 1
+    path: Assets/levels/level 8.unity
+    guid: 145913097e12d804f8a08477d3d25b14
+  - enabled: 1
+    path: Assets/levels/level 9.unity
+    guid: 8f2f0c0b7579cc640bb051b08abe42f9
+  - enabled: 1
+    path: Assets/levels/level 10.unity
+    guid: 4a6311b7c0b0da6459ea07ce4b0cef8d
+  - enabled: 1
+    path: Assets/levels/boss fight.unity
+    guid: 00bed373c0c25b54ca9c58532df258c0
   m_configObjects: {}
